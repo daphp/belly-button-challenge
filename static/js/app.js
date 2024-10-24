@@ -100,6 +100,8 @@ function buildCharts(sample) {
 
 // Function to run on page load
 function init() {
+  console.log("Initializing the dashboard...");
+  
   d3.json("https://static.bc-edx.com/data/dl-1-2/m14/lms/starter/samples.json").then((data) => {
 
     // Get the names field
