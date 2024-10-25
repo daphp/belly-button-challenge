@@ -25,7 +25,7 @@ function buildMetadata(sample) {
       PANEL.append("h6").text(`${key.toUpperCase()}: ${value}`);
 
   });
-}
+};
 
 // function to build both charts
 function buildCharts(sample) {
@@ -100,7 +100,7 @@ function buildCharts(sample) {
 
 // Function to run on page load
 function init() {
-  console.log("Initializing the dashboard...");
+  alert("Initializing the dashboard...");
   
   d3.json("https://static.bc-edx.com/data/dl-1-2/m14/lms/starter/samples.json").then((data) => {
 
