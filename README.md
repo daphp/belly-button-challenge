@@ -29,19 +29,15 @@ The Belly Button Biodiversity Dashboard provides insights into the types of bact
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/belly-button-challenge.git
-```
-
+	```
 2. Navigate to the project direcctory:
 	```bash
 	cd belly-button-challenge
 	```
-
 3. Open index.html in your web browser to view the dashboard.
 
 	Alternatively, view the dashboard directly online:
-
 	Live Dashboard Link: https://daphp.github.io/belly-button-challenge/
-
 	Note: The project loads data directly from an external JSON URL, so internet access is required to view the dashboard's content.
 
 ## Usage
@@ -49,7 +45,6 @@ The Belly Button Biodiversity Dashboard provides insights into the types of bact
 1. Open the dashboard either by:
 	Opening index.html in any web browser, or
 	Navigating to the live dashboard https://daphp.github.io/belly-button-challenge/.
-
 2. Use the dropdown menu at the top left to select a test subject ID.
 3. The demographic information will update based on the selected individual.
 4. The bar chart will display the top 10 bacterial species found in that sample.
@@ -78,3 +73,4 @@ Contributions are welcome! To contribute:
 
 ## License
 This project is open-source and available under the MIT License.
+
