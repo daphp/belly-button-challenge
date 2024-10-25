@@ -52,24 +52,25 @@ The Belly Button Biodiversity Dashboard provides insights into the types of bact
 
 ## Files
 
-	* index.html: Main HTML file containing the structure of the dashboard.
-	* /static/js/app.js: JavaScript file responsible for fetching data, building charts, and handling interactivity.
-	* README.md: Project documentation.
+- **index.html**: Main HTML file containing the structure of the dashboard.
+- **/static/js/app.js**: JavaScript file responsible for fetching data, building charts, and handling interactivity.
+- **README.md**: Project documentation.
 
 ## Technologies Used
-	* JavaScript: Core programming language used for logic and interactivity.
-	* D3.js: Used for data handling and selecting HTML elements.
-	* Plotly.js: Used to create responsive, interactive charts.
-	* Bootstrap: For styling and responsive layout.
+
+- **JavaScript**: Core programming language used for logic and interactivity.
+- **D3.js**: Used for data handling and selecting HTML elements.
+- **Plotly.js**: Used to create responsive, interactive charts.
+- **Bootstrap**: For styling and responsive layout.
 
 ## Contributing
 Contributions are welcome! To contribute:
 
-	+ Fork the repository.
-	+ Create a feature branch (git checkout -b feature/AmazingFeature).
-	+ Commit your changes (git commit -m 'Add some AmazingFeature').
-	+ Push to the branch (git push origin feature/AmazingFeature).
-	+ Open a pull request.
+- **Fork the repository.**
+- **Create a feature branch (git checkout -b feature/AmazingFeature).**
+- **Commit your changes (git commit -m 'Add some AmazingFeature').**
+- **Push to the branch (git push origin feature/AmazingFeature).**
+- **Open a pull request.**
 
 ## License
 This project is open-source and available under the MIT License.
